@@ -2,14 +2,10 @@
 Update Google Sheet from a Web App
 
 
-### Sheet Name
+## Google Spreadsheet
 
-	PIRsheet
-
-
-### Header Row
-
-	timestamp	pir-sensor value	is_present
+* Sheet Name: `PIRsheet`
+* Header Row: {`timestamp`, `pir-sensor value`, `is_present`}
 
 
 ## Google Web App
